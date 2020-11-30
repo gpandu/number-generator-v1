@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 30 12:24:46 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-17ee-aa30-000001e98838 
+on database directory memory:/home/gugulothu.pandu/Documents/SB_APP/number-generator-v1/17b68745-c275-4d70-b80d-c42ef3f74bb7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+Loaded from file:/home/gugulothu.pandu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=/home/gugulothu.pandu/Documents/SB_APP/number-generator-v1
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-123-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
