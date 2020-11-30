@@ -4,7 +4,7 @@
 
 # Documentation
   
-* Clone the git project from https://github.com/gpandu/number-generator.git
+* Clone the git project from https://github.com/gpandu/number-generator-v1.git
 * This is a Maven project, we can use InteliJ or Eclipse IDE to import this repository as Maven Project.
 * In InteliJ, Navigate to **File** -> **New** -> **Project from Existing Sources** -> **Select the git repo directory from local**
 * Select **Maven** as the project in the next page.
@@ -15,7 +15,7 @@
 
 # Sample REST API Request and Response
 
-**Request** :  http://127.0.0.1:3000/api/generate
+**POST Request** :  http://127.0.0.1:3000/api/generate
                Body : {"goal":"6", "step": "2"}
 
 **Response** : {
