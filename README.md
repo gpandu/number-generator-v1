@@ -11,3 +11,13 @@
 * Project will start building by downloading dependencies provided in the **pom.xml**, it will take few minutes to build the project.
 * NOTE: Add jdk repository to the IDE if not already pointed.
 * Once build completes, navigate to source path **src/main/java/com/numgenerator/springimpl**. Run NumberGeneratorApplication.java file which will execute main method and starts SpringBoot Application on port mentioned in **application.properties**.
+
+
+# Sample REST API Request and Response
+
+**Request** :  http://127.0.0.1:3000/api/generate
+               Body : {"goal":"6", "step": "2"}
+
+**Response** : {
+                 "task": "30a60655-dce0-428b-a58b-fbf83e7aa725"
+               }
